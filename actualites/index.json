@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 2,
+  "contentVersion": 3,
   "nextArticleNumber": 3,
-  "updatedAt": "2026-09-17T21:00:00+02:00",
+  "updatedAt": "2026-09-17T21:20:00+02:00",
   "articles": [
     {
       "id": "A0000002",
@@ -16,7 +16,12 @@
       "date": "",
       "publishedAt": "2026-09-17T21:00:00+02:00",
       "layoutCode": "H28",
-      "cover": null,
+      "cover": {
+        "src": "https://raw.githubusercontent.com/shbassinchateaulin/site-horticulture/main/assets/images/logo.png",
+        "alt": "Logo de la Société d’Horticulture et d’Art Floral du Bassin de Châteaulin",
+        "fit": "contain",
+        "role": "listing-cover"
+      },
       "placements": {
         "news": true,
         "homeLatest": true,
