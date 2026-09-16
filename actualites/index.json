@@ -1,9 +1,28 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1,
-  "nextArticleNumber": 2,
-  "updatedAt": "2026-09-16T21:26:00.694Z",
+  "contentVersion": 2,
+  "nextArticleNumber": 3,
+  "updatedAt": "2026-09-17T21:00:00+02:00",
   "articles": [
+    {
+      "id": "A0000002",
+      "number": 2,
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Programme 2026 de l’association",
+      "summary": "Découvrez le programme 2026 : réunions techniques, art floral, sorties botaniques, excursions, vie associative et services proposés aux adhérents.",
+      "date": "",
+      "publishedAt": "2026-09-17T21:00:00+02:00",
+      "layoutCode": "H28",
+      "cover": null,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
     {
       "id": "A0000001",
       "number": 1,
