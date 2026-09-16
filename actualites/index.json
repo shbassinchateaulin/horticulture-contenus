@@ -2,27 +2,30 @@
   "schemaVersion": 1,
   "contentVersion": 4,
   "nextArticleNumber": 4,
-  "updatedAt": "2026-09-17T21:40:00+02:00",
+  "updatedAt": "2026-09-16T22:39:42.218Z",
   "articles": [
     {
       "id": "A0000003",
       "number": 3,
-      "status": "draft",
+      "status": "published",
       "type": "actualite",
       "category": "Vie de l’association",
       "categoryKey": "association",
       "title": "Un centre de table pour Noël",
       "summary": "Une vingtaine d’adhérentes ont réalisé un centre de table de Noël tapissé de verdure, fleuri de roses et d’orchidées, avec bougies et décorations assorties.",
       "date": "",
-      "publishedAt": "",
+      "publishedAt": "2026-09-16T22:39:42.218Z",
       "layoutCode": "H14",
-      "cover": null,
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
       "expectedPhotoCount": 5,
-      "uploadedPhotoCount": 0,
-      "mediaImportPending": true,
+      "uploadedPhotoCount": 5,
+      "mediaImportPending": false,
       "placements": {
-        "news": false,
-        "homeLatest": false,
+        "news": true,
+        "homeLatest": true,
         "upcomingEvents": false
       }
     },
