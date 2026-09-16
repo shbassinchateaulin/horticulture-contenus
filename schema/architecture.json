@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "articleIdFormat": "actu-%04d",
+  "articleNumbersArePermanent": true,
+  "renumberAfterDelete": false,
+  "publicIndex": "actualites/index.json",
+  "articleManifest": "actualites/{articleId}/contenu.json",
+  "articleLayout": "actualites/{articleId}/layout.json",
+  "media": {
+    "provider": "abstract",
+    "strategy": "atomic-batches",
+    "articleMustStayInSingleBatch": true,
+    "batchNaming": "medias-%04d",
+    "softAssetLimitPerBatch": 900,
+    "hardAssetLimitPerBatch": 1000,
+    "allocateNewBatchWhenArticleDoesNotFit": true,
+    "locationHiddenFromAdminUI": true,
+    "manifestStoresPhysicalLocation": true
+  },
+  "layout": {
+    "generatedOnce": true,
+    "statuses": ["pending", "ready", "regeneration_required"],
+    "regenerateOnlyWhenNeeded": true,
+    "responsiveResolvedBySite": true
+  },
+  "site": {
+    "homeLatestCount": 3,
+    "menuLatestCount": 2,
+    "sort": "publishedAt-desc"
+  }
+}
