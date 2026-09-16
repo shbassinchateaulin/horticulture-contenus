@@ -1,0 +1,26 @@
+{
+  "id": "actu-0001",
+  "number": 1,
+  "slug": "assemblee-generale-2026",
+  "title": "Assemblée générale 2026",
+  "category": "evenement",
+  "status": "draft",
+  "publishedAt": null,
+  "createdAt": null,
+  "updatedAt": null,
+  "summary": "",
+  "originalText": "",
+  "editedText": "",
+  "blocks": [],
+  "coverMediaId": null,
+  "media": [],
+  "mediaLocation": {
+    "provider": null,
+    "batch": null,
+    "releaseId": null
+  },
+  "contentVersion": 1,
+  "layoutStatus": "pending",
+  "layoutVersion": 0,
+  "layoutGeneratedAt": null
+}
