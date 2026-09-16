@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "A0000003",
+  "number": 3,
+  "status": "draft",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Un centre de table pour Noël",
+  "summary": "Une vingtaine d’adhérentes ont réalisé un centre de table de Noël tapissé de verdure, fleuri de roses et d’orchidées, avec bougies et décorations assorties.",
+  "date": "",
+  "publishedAt": "",
+  "layoutCode": "H14",
+  "text": "Mercredi après-midi, une vingtaine d'adhérentes, guidées par l'animatrice, ont réalisé un centre de table tapissé de verdure, fleuri de roses et d'orchidées, blanches ou rouges. Trois bougies et quelques boules assorties complétaient le bouquet.\n\nPROCHAIN COURS :\n\nMercredi 21 janvier à 14h30 dans la salle des fêtes de la mairie de Châteaulin.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 5,
+    "uploadedPhotoCount": 0,
+    "expectedPhotoCount": 5,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": true
+  }
+}
