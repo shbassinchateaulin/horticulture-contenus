@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "A0000002",
+  "layoutCode": "H28",
+  "layoutName": "Texte uniquement",
+  "photoCount": 0,
+  "documentCount": 0,
+  "rules": {
+    "requiresPhotos": false,
+    "maxInlinePhotos": 0,
+    "galleryAfter": 9
+  }
+}
