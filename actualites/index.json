@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": 1,
   "nextArticleNumber": 2,
-  "updatedAt": "2026-09-16T21:30:00+02:00",
+  "updatedAt": "2026-09-16T21:26:00.694Z",
   "articles": [
     {
       "id": "A0000001",
@@ -16,7 +16,10 @@
       "date": "",
       "publishedAt": "2026-09-16T21:30:00+02:00",
       "layoutCode": "H07",
-      "cover": null,
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
       "placements": {
         "news": true,
         "homeLatest": true,
