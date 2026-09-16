@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "A0000003",
+  "layoutCode": "H14",
+  "layoutName": "Galerie + texte explicatif",
+  "photoCount": 5,
+  "documentCount": 0,
+  "rules": {
+    "requiresPhotos": true,
+    "minPhotos": 3,
+    "maxInlinePhotos": 9,
+    "galleryAfter": 9
+  }
+}
