@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "A0000001",
+  "number": 1,
+  "status": "published",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Échanges gratuits de plantes à Port-Launay",
+  "summary": "Une trentaine d’amateurs se sont retrouvés à Port-Launay pour échanger plantes, conseils de culture et techniques de multiplication dans une ambiance conviviale.",
+  "date": "",
+  "publishedAt": "2026-09-16T21:30:00+02:00",
+  "layoutCode": "H07",
+  "text": "Ce samedi après-midi, la Société d'Horticulture du Bassin de Châteaulin a organisé ses traditionnels échanges gratuits de plantes ornementales, potagères ou fruitières, dans le foyer communal de Port-Launay.\n\nUne trentaine d'amateurs y ont ainsi troqué des vivaces, des bulbes, des tubercules, des rhizomes, des boutures enracinées... qui leur permettront d'enrichir leur jardin. Dans une ambiance très conviviale, ils ont également partagé des conseils de culture ou de multiplication des végétaux proposés.\n\nPROCHAINE RÉUNION :\n\nSamedi 6 décembre, à 16h au Lycée horticole de Châteaulin, Laurent Rannou, technicien horticole, présentera « le jardinage sans motorisation : outils manuels indispensables, gestion du jardin, choix de plantes rustiques... ». La réunion est ouverte gratuitement à tous les amateurs.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 3,
+    "documentCount": 0,
+    "hasGallery": false
+  }
+}
