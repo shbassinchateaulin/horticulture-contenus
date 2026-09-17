@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "A0000004",
+  "layoutCode": "H01",
+  "layoutName": "Grande image + texte",
+  "photoCount": 1,
+  "documentCount": 0,
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    }
+  ],
+  "documents": [],
+  "expectedPhotoCount": 1,
+  "expectedPhotos": 1,
+  "gallery": false
+}
