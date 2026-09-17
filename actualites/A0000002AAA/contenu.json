@@ -1,7 +1,9 @@
 {
-  "schemaVersion": 1,
-  "id": "A0000002",
+  "schemaVersion": 2,
+  "id": "A0000002AAA",
   "number": 2,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
   "status": "published",
   "type": "actualite",
   "category": "Vie de l’association",
@@ -15,14 +17,6 @@
   "photos": [],
   "documents": [],
   "event": null,
-  "placements": {
-    "news": true,
-    "homeLatest": true,
-    "upcomingEvents": false
-  },
-  "metrics": {
-    "photoCount": 0,
-    "documentCount": 0,
-    "hasGallery": false
-  }
+  "placements": {"news":true,"homeLatest":true,"upcomingEvents":false},
+  "metrics": {"photoCount":0,"uploadedPhotoCount":0,"expectedPhotoCount":0,"documentCount":0,"hasGallery":false,"mediaImportPending":false}
 }
