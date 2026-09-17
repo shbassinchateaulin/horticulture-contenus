@@ -1,7 +1,9 @@
 {
-  "schemaVersion": 1,
-  "id": "A0000004",
+  "schemaVersion": 2,
+  "id": "A0000004AAA",
   "number": 4,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
   "status": "published",
   "type": "actualite",
   "category": "Vie de l’association",
@@ -12,25 +14,9 @@
   "publishedAt": "2026-09-17T12:00:00+02:00",
   "layoutCode": "H01",
   "text": "En fin d'hiver, les jardiniers doivent intervenir sur leurs fruitiers à pépins (pommiers et poiriers) et leurs arbustes d'ornement à floraison estivale ou automnale, afin d'en améliorer la fructification et la floraison.\n\nPour les amateurs, la Société d'Horticulture du Bassin de Châteaulin organise samedi 21 février, à partir de 14h, une démonstration de tailles dans le jardin de Mr et Mme HASCOET, 3 route de Kervennou à LANDUDAL.\n\nDeux techniciens horticoles, Serge Caron et Jean-François Sévère, procéderont d'abord à l'éclaircissage et au rajeunissement de pommiers sur tronc, puis tailleront une vigne dans la serre.\n\nDans le jardin d'ornement, ils prépareront les rosiers, les hortensias, les budléias, les hibiscus... pour une belle floraison estivale. Un chamaëcyparis obtusa nana gracilis subira également une taille « en nuages » pour alléger sa silhouette.\n\nLa réunion est ouverte gratuitement à tous les amateurs.\n\n(Pour ceux qui le souhaitent, départ de Châteaulin, Place de la Résistance, à 13h30. Covoiturage possible).",
-  "photos": [
-    {
-      "src": "medias/photo-001.webp",
-      "order": 1
-    }
-  ],
+  "photos": [{"src":"medias/photo-001.webp","order":1}],
   "documents": [],
   "event": null,
-  "placements": {
-    "news": true,
-    "homeLatest": true,
-    "upcomingEvents": false
-  },
-  "metrics": {
-    "photoCount": 1,
-    "uploadedPhotoCount": 0,
-    "expectedPhotoCount": 1,
-    "documentCount": 0,
-    "hasGallery": false,
-    "mediaImportPending": true
-  }
+  "placements": {"news":true,"homeLatest":true,"upcomingEvents":false},
+  "metrics": {"photoCount":1,"uploadedPhotoCount":1,"expectedPhotoCount":1,"documentCount":0,"hasGallery":false,"mediaImportPending":false}
 }
