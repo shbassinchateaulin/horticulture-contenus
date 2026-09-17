@@ -1,7 +1,9 @@
 {
-  "schemaVersion": 1,
-  "id": "A0000003",
+  "schemaVersion": 2,
+  "id": "A0000003AAA",
   "number": 3,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
   "status": "published",
   "type": "actualite",
   "category": "Vie de l’association",
@@ -12,41 +14,9 @@
   "publishedAt": "2026-09-16T22:39:40.703Z",
   "layoutCode": "H14",
   "text": "Mercredi après-midi, une vingtaine d'adhérentes, guidées par l'animatrice, ont réalisé un centre de table tapissé de verdure, fleuri de roses et d'orchidées, blanches ou rouges. Trois bougies et quelques boules assorties complétaient le bouquet.\n\nPROCHAIN COURS :\n\nMercredi 21 janvier à 14h30 dans la salle des fêtes de la mairie de Châteaulin.",
-  "photos": [
-    {
-      "src": "medias/photo-001.webp",
-      "order": 1
-    },
-    {
-      "src": "medias/photo-002.webp",
-      "order": 2
-    },
-    {
-      "src": "medias/photo-003.webp",
-      "order": 3
-    },
-    {
-      "src": "medias/photo-004.webp",
-      "order": 4
-    },
-    {
-      "src": "medias/photo-005.webp",
-      "order": 5
-    }
-  ],
+  "photos": [{"src":"medias/photo-001.webp","order":1},{"src":"medias/photo-002.webp","order":2},{"src":"medias/photo-003.webp","order":3},{"src":"medias/photo-004.webp","order":4},{"src":"medias/photo-005.webp","order":5}],
   "documents": [],
   "event": null,
-  "placements": {
-    "news": true,
-    "homeLatest": true,
-    "upcomingEvents": false
-  },
-  "metrics": {
-    "photoCount": 5,
-    "uploadedPhotoCount": 5,
-    "expectedPhotoCount": 5,
-    "documentCount": 0,
-    "hasGallery": false,
-    "mediaImportPending": false
-  }
+  "placements": {"news":true,"homeLatest":true,"upcomingEvents":false},
+  "metrics": {"photoCount":5,"uploadedPhotoCount":5,"expectedPhotoCount":5,"documentCount":0,"hasGallery":false,"mediaImportPending":false}
 }
