@@ -1,9 +1,27 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 4,
-  "nextArticleNumber": 4,
-  "updatedAt": "2026-09-16T22:39:42.218Z",
+  "contentVersion": 5,
+  "nextArticleNumber": 5,
+  "updatedAt": "2026-09-17T12:00:00+02:00",
   "articles": [
+    {
+      "id": "A0000004",
+      "number": 4,
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Démonstration de taille des fruitiers à Landudal",
+      "summary": "La Société d’Horticulture du Bassin de Châteaulin a proposé à Landudal une démonstration de taille des fruitiers à pépins, de la vigne et des arbustes d’ornement.",
+      "date": "",
+      "publishedAt": "2026-09-17T12:00:00+02:00",
+      "layoutCode": "H01",
+      "cover": {"src":"medias/photo-001.webp","order":1},
+      "expectedPhotoCount": 1,
+      "uploadedPhotoCount": 0,
+      "mediaImportPending": true,
+      "placements": {"news":true,"homeLatest":true,"upcomingEvents":false}
+    },
     {
       "id": "A0000003",
       "number": 3,
@@ -16,18 +34,11 @@
       "date": "",
       "publishedAt": "2026-09-16T22:39:42.218Z",
       "layoutCode": "H14",
-      "cover": {
-        "src": "medias/photo-001.webp",
-        "order": 1
-      },
+      "cover": {"src":"medias/photo-001.webp","order":1},
       "expectedPhotoCount": 5,
       "uploadedPhotoCount": 5,
       "mediaImportPending": false,
-      "placements": {
-        "news": true,
-        "homeLatest": true,
-        "upcomingEvents": false
-      }
+      "placements": {"news":true,"homeLatest":true,"upcomingEvents":false}
     },
     {
       "id": "A0000002",
@@ -41,17 +52,8 @@
       "date": "",
       "publishedAt": "2026-09-17T21:00:00+02:00",
       "layoutCode": "H28",
-      "cover": {
-        "src": "https://raw.githubusercontent.com/shbassinchateaulin/site-horticulture/main/assets/images/logo.png",
-        "alt": "Logo de la Société d’Horticulture et d’Art Floral du Bassin de Châteaulin",
-        "fit": "contain",
-        "role": "listing-cover"
-      },
-      "placements": {
-        "news": true,
-        "homeLatest": true,
-        "upcomingEvents": false
-      }
+      "cover": {"src":"https://raw.githubusercontent.com/shbassinchateaulin/site-horticulture/main/assets/images/logo.png","alt":"Logo de la Société d’Horticulture et d’Art Floral du Bassin de Châteaulin","fit":"contain","role":"listing-cover"},
+      "placements": {"news":true,"homeLatest":true,"upcomingEvents":false}
     },
     {
       "id": "A0000001",
@@ -65,15 +67,8 @@
       "date": "",
       "publishedAt": "2026-09-16T21:30:00+02:00",
       "layoutCode": "H07",
-      "cover": {
-        "src": "medias/photo-001.webp",
-        "order": 1
-      },
-      "placements": {
-        "news": true,
-        "homeLatest": true,
-        "upcomingEvents": false
-      }
+      "cover": {"src":"medias/photo-001.webp","order":1},
+      "placements": {"news":true,"homeLatest":true,"upcomingEvents":false}
     }
   ]
 }
