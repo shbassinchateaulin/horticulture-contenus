@@ -1,18 +1,12 @@
 {
+  "schemaVersion": 2,
+  "id": "A0000001AAA",
+  "seasonCode": "AAA",
   "layoutCode": "H07",
   "photos": [
-    {
-      "src": "medias/photo-001.webp",
-      "order": 1
-    },
-    {
-      "src": "medias/photo-002.webp",
-      "order": 2
-    },
-    {
-      "src": "medias/photo-003.webp",
-      "order": 3
-    }
+    {"src":"medias/photo-001.webp","order":1},
+    {"src":"medias/photo-002.webp","order":2},
+    {"src":"medias/photo-003.webp","order":3}
   ],
   "documents": [],
   "gallery": false,
