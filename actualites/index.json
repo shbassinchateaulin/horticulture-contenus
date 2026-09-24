@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 7,
-  "nextArticleNumber": 6,
+  "contentVersion": 8,
+  "nextArticleNumber": 7,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
@@ -10,6 +10,30 @@
   },
   "updatedAt": "2026-09-24T11:14:23.508Z",
   "articles": [
+    {
+      "id": "A0000006AAA",
+      "number": 6,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "draft",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Démonstration de tailles à St-Coulitz",
+      "summary": "Démonstration gratuite de tailles de fruitiers et d’arbustes à floraison estivale ou automnale à St-Coulitz.",
+      "date": "",
+      "publishedAt": "",
+      "layoutCode": "H15",
+      "cover": null,
+      "expectedPhotoCount": 3,
+      "uploadedPhotoCount": 0,
+      "mediaImportPending": true,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
     {
       "id": "A0000005AAA",
       "number": 5,
