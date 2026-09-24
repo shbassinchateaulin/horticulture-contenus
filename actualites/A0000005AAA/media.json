@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000005AAA",
+  "status": "awaiting-import",
+  "expectedPhotoCount": 6,
+  "expectedPhotos": 6,
+  "photoCount": 0,
+  "photos": [],
+  "uploadPending": true
+}
