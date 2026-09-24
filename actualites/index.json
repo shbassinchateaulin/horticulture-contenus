@@ -1,18 +1,142 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 6,
-  "nextArticleNumber": 5,
+  "contentVersion": 7,
+  "nextArticleNumber": 6,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-09-17T13:29:00+02:00",
+  "updatedAt": "2026-09-24T13:12:00+02:00",
   "articles": [
-    {"id":"A0000004AAA","number":4,"seasonCode":"AAA","season":"2025-2026","status":"published","type":"actualite","category":"Vie de l’association","categoryKey":"association","title":"Démonstration de taille des fruitiers à Landudal","summary":"La Société d’Horticulture du Bassin de Châteaulin a proposé à Landudal une démonstration de taille des fruitiers à pépins, de la vigne et des arbustes d’ornement.","date":"","publishedAt":"2026-09-17T12:00:00+02:00","layoutCode":"H01","cover":{"src":"medias/photo-001.webp","order":1},"expectedPhotoCount":1,"uploadedPhotoCount":1,"mediaImportPending":false,"placements":{"news":true,"homeLatest":true,"upcomingEvents":false}},
-    {"id":"A0000003AAA","number":3,"seasonCode":"AAA","season":"2025-2026","status":"published","type":"actualite","category":"Vie de l’association","categoryKey":"association","title":"Un centre de table pour Noël","summary":"Une vingtaine d’adhérentes ont réalisé un centre de table de Noël tapissé de verdure, fleuri de roses et d’orchidées, avec bougies et décorations assorties.","date":"","publishedAt":"2026-09-16T22:39:42.218Z","layoutCode":"H14","cover":{"src":"medias/photo-001.webp","order":1},"expectedPhotoCount":5,"uploadedPhotoCount":5,"mediaImportPending":false,"placements":{"news":true,"homeLatest":true,"upcomingEvents":false}},
-    {"id":"A0000002AAA","number":2,"seasonCode":"AAA","season":"2025-2026","status":"published","type":"actualite","category":"Vie de l’association","categoryKey":"association","title":"Programme 2026 de l’association","summary":"Découvrez le programme 2026 : réunions techniques, art floral, sorties botaniques, excursions, vie associative et services proposés aux adhérents.","date":"","publishedAt":"2026-09-17T21:00:00+02:00","layoutCode":"H28","cover":{"src":"https://raw.githubusercontent.com/shbassinchateaulin/site-horticulture/main/assets/images/logo.png","alt":"Logo de la Société d’Horticulture et d’Art Floral du Bassin de Châteaulin","fit":"contain","role":"listing-cover"},"placements":{"news":true,"homeLatest":true,"upcomingEvents":false}},
-    {"id":"A0000001AAA","number":1,"seasonCode":"AAA","season":"2025-2026","status":"published","type":"actualite","category":"Vie de l’association","categoryKey":"association","title":"Échanges gratuits de plantes à Port-Launay","summary":"Une trentaine d’amateurs se sont retrouvés à Port-Launay pour échanger plantes, conseils de culture et techniques de multiplication dans une ambiance conviviale.","date":"","publishedAt":"2026-09-16T21:30:00+02:00","layoutCode":"H07","cover":{"src":"medias/photo-001.webp","order":1},"placements":{"news":true,"homeLatest":true,"upcomingEvents":false}}
+    {
+      "id": "A0000005AAA",
+      "number": 5,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "draft",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Bouquet ovale et fleurs de saison",
+      "summary": "Les adhérents de l’association d’art floral se sont retrouvés pour réaliser un bouquet ovale à partir de fleurs de saison.",
+      "date": "",
+      "publishedAt": "",
+      "layoutCode": "H15",
+      "cover": null,
+      "expectedPhotoCount": 6,
+      "uploadedPhotoCount": 0,
+      "mediaImportPending": true,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000004AAA",
+      "number": 4,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Démonstration de taille des fruitiers à Landudal",
+      "summary": "La Société d’Horticulture du Bassin de Châteaulin a proposé à Landudal une démonstration de taille des fruitiers à pépins, de la vigne et des arbustes d’ornement.",
+      "date": "",
+      "publishedAt": "2026-09-17T12:00:00+02:00",
+      "layoutCode": "H01",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 1,
+      "uploadedPhotoCount": 1,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000003AAA",
+      "number": 3,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Un centre de table pour Noël",
+      "summary": "Une vingtaine d’adhérentes ont réalisé un centre de table de Noël tapissé de verdure, fleuri de roses et d’orchidées, avec bougies et décorations assorties.",
+      "date": "",
+      "publishedAt": "2026-09-16T22:39:42.218Z",
+      "layoutCode": "H14",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 5,
+      "uploadedPhotoCount": 5,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000002AAA",
+      "number": 2,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Programme 2026 de l’association",
+      "summary": "Découvrez le programme 2026 : réunions techniques, art floral, sorties botaniques, excursions, vie associative et services proposés aux adhérents.",
+      "date": "",
+      "publishedAt": "2026-09-17T21:00:00+02:00",
+      "layoutCode": "H28",
+      "cover": {
+        "src": "https://raw.githubusercontent.com/shbassinchateaulin/site-horticulture/main/assets/images/logo.png",
+        "alt": "Logo de la Société d’Horticulture et d’Art Floral du Bassin de Châteaulin",
+        "fit": "contain",
+        "role": "listing-cover"
+      },
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000001AAA",
+      "number": 1,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Échanges gratuits de plantes à Port-Launay",
+      "summary": "Une trentaine d’amateurs se sont retrouvés à Port-Launay pour échanger plantes, conseils de culture et techniques de multiplication dans une ambiance conviviale.",
+      "date": "",
+      "publishedAt": "2026-09-16T21:30:00+02:00",
+      "layoutCode": "H07",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    }
   ]
 }
