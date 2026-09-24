@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000005AAA",
+  "seasonCode": "AAA",
+  "layoutCode": "H15",
+  "layoutName": "Reportage / plusieurs grandes photos",
+  "photoCount": 0,
+  "expectedPhotoCount": 6,
+  "expectedPhotos": 6,
+  "photos": [],
+  "gallery": false
+}
