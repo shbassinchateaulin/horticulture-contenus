@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "A0000004AAA",
   "seasonCode": "AAA",
-  "layoutCode": "H01",
+  "layoutCode": "H11",
   "layoutName": "Grande image + texte",
   "photoCount": 1,
   "documentCount": 0,
@@ -16,6 +16,5 @@
   "expectedPhotoCount": 1,
   "expectedPhotos": 1,
   "gallery": false,
-  "layout": "H11",
   "updatedAt": "2026-09-24T09:35:32.603Z"
 }
