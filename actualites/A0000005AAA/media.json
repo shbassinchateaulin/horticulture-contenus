@@ -1,10 +1,35 @@
 {
   "schemaVersion": 2,
   "id": "A0000005AAA",
-  "status": "awaiting-import",
+  "status": "complete",
   "expectedPhotoCount": 6,
   "expectedPhotos": 6,
-  "photoCount": 0,
-  "photos": [],
-  "uploadPending": true
+  "photoCount": 6,
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    },
+    {
+      "src": "medias/photo-005.webp",
+      "order": 5
+    },
+    {
+      "src": "medias/photo-006.webp",
+      "order": 6
+    }
+  ],
+  "uploadPending": false
 }
