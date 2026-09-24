@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000005AAA",
+  "number": 5,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
+  "status": "draft",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Bouquet ovale et fleurs de saison",
+  "summary": "Les adhérents de l’association d’art floral se sont retrouvés pour réaliser un bouquet ovale à partir de fleurs de saison.",
+  "date": "",
+  "publishedAt": "",
+  "layoutCode": "H15",
+  "text": "Les adhérents de l'association d'art floral du bassin de Châteaulin se sont retrouvés pour un nouvel atelier placé sous le signe de la créativité et de la bonne humeur. Au programme de cette séance : la réalisation d'un bouquet ovale, une composition élégante qui demande précision, équilibre et harmonie dans la disposition des fleurs. Guidés par les conseils de l'animatrice, chacun a pu découvrir ou perfectionner cette technique tout en laissant libre cours à son imagination. Les compositions ont été réalisées à partir de fleurs de saison, sélectionnées pour leurs couleurs, leurs formes et leur fraîcheur. Ce choix permet de mettre en valeur les richesses de la nature tout en créant des bouquets authentiques et raffinés. Comme à chaque rencontre, cet atelier a été un agréable moment de partage, d'échanges et de convivialité. Les participants sont repartis avec de magnifiques créations, toutes différentes, témoignant du talent et de la sensibilité de chacun.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 0,
+    "uploadedPhotoCount": 0,
+    "expectedPhotoCount": 6,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": true
+  }
+}
