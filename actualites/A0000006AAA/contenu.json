@@ -1,1 +1,27 @@
-
+{
+  "id": "A0000006AAA",
+  "status": "published",
+  "title": "A0000006AAA",
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    }
+  ],
+  "publishedAt": "2026-09-24T17:41:35.613Z",
+  "metrics": {
+    "photoCount": 3,
+    "uploadedPhotoCount": 3,
+    "expectedPhotoCount": 3,
+    "mediaImportPending": false,
+    "hasGallery": false
+  }
+}
