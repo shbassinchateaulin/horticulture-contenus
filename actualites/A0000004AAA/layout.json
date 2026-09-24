@@ -6,9 +6,16 @@
   "layoutName": "Grande image + texte",
   "photoCount": 1,
   "documentCount": 0,
-  "photos": [{"src":"medias/photo-001.webp","order":1}],
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    }
+  ],
   "documents": [],
   "expectedPhotoCount": 1,
   "expectedPhotos": 1,
-  "gallery": false
+  "gallery": false,
+  "layout": "H11",
+  "updatedAt": "2026-09-24T09:16:10.101Z"
 }
