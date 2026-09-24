@@ -1,1 +1,21 @@
-
+{
+  "status": "complete",
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    }
+  ],
+  "photoCount": 3,
+  "uploadPending": false,
+  "expectedPhotoCount": 3,
+  "expectedPhotos": 3
+}
