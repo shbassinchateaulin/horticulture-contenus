@@ -4,9 +4,34 @@
   "seasonCode": "AAA",
   "layoutCode": "H15",
   "layoutName": "Reportage / plusieurs grandes photos",
-  "photoCount": 0,
+  "photoCount": 6,
   "expectedPhotoCount": 6,
   "expectedPhotos": 6,
-  "photos": [],
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    },
+    {
+      "src": "medias/photo-005.webp",
+      "order": 5
+    },
+    {
+      "src": "medias/photo-006.webp",
+      "order": 6
+    }
+  ],
   "gallery": false
 }
