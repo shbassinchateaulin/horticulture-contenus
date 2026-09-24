@@ -8,26 +8,29 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-09-24T13:12:00+02:00",
+  "updatedAt": "2026-09-24T11:14:23.508Z",
   "articles": [
     {
       "id": "A0000005AAA",
       "number": 5,
       "seasonCode": "AAA",
       "season": "2025-2026",
-      "status": "draft",
+      "status": "published",
       "type": "actualite",
       "category": "Vie de l’association",
       "categoryKey": "association",
       "title": "Bouquet ovale et fleurs de saison",
       "summary": "Les adhérents de l’association d’art floral se sont retrouvés pour réaliser un bouquet ovale à partir de fleurs de saison.",
       "date": "",
-      "publishedAt": "",
+      "publishedAt": "2026-09-24T11:14:23.508Z",
       "layoutCode": "H15",
-      "cover": null,
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
       "expectedPhotoCount": 6,
-      "uploadedPhotoCount": 0,
-      "mediaImportPending": true,
+      "uploadedPhotoCount": 6,
+      "mediaImportPending": false,
       "placements": {
         "news": true,
         "homeLatest": true,
