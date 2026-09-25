@@ -14,7 +14,28 @@
   "publishedAt": "2026-09-25T20:59:15.741Z",
   "layoutCode": "H15",
   "text": "Pour le dernier atelier d'art floral avant les vacances estivales, l'animatrice a proposé et guidé la réalisation d'une composition intitulée « À travers la toile ». Les participantes ont d'abord découpé en croix, à l'aide d'un cutter, une toile à peindre de 40 × 30 cm, dont elles ont ensuite enroulé et collé les découpes sur les rebords restants de la toile. Puis le cadre a été redressé, presque à la verticale, sur un support. Enfin, chacune a réalisé son bouquet, constitué de fleurs faciles à courber — arum, germini, anthurium… —, de feuillages, comme le lierre, et de mousse des bois, piqués dans un support humidifié, fixé sur un fond de bouteille en plastique derrière le cadre.",
-  "photos": [],
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    },
+    {
+      "src": "medias/photo-005.webp",
+      "order": 5
+    }
+  ],
   "documents": [],
   "event": null,
   "placements": {
@@ -24,10 +45,10 @@
   },
   "metrics": {
     "photoCount": 5,
-    "uploadedPhotoCount": 0,
+    "uploadedPhotoCount": 5,
     "expectedPhotoCount": 5,
     "documentCount": 0,
     "hasGallery": false,
-    "mediaImportPending": true
+    "mediaImportPending": false
   }
 }
