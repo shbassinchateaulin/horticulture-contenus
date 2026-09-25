@@ -1,15 +1,39 @@
 {
   "schemaVersion": 2,
   "contentVersion": 8,
-  "nextArticleNumber": 8,
+  "nextArticleNumber": 9,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-09-25T20:51:21.549Z",
+  "updatedAt": "2026-09-25T20:55:53.167Z",
   "articles": [
+    {
+      "id": "A0000008AAA",
+      "number": 8,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "À la découverte des plantes ripicoles",
+      "summary": "Une promenade botanique à la découverte des plantes des bords d’eau, entre l’Aulne maritime et un affluent du Garvan.",
+      "date": "",
+      "publishedAt": "2026-09-25T20:55:53.167Z",
+      "layoutCode": "H15",
+      "cover": null,
+      "expectedPhotoCount": 4,
+      "uploadedPhotoCount": 0,
+      "mediaImportPending": true,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
     {
       "id": "A0000007AAA",
       "number": 7,
