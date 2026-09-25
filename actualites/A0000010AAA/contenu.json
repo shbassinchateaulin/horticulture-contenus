@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000010AAA",
+  "number": 10,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
+  "status": "published",
+  "type": "actualite",
+  "category": "Sorties et voyages",
+  "categoryKey": "sorties",
+  "title": "La route de la rose",
+  "summary": "Un séjour de trois jours dans le Loiret, à la découverte de parcs, jardins et roseraies d’exception.",
+  "date": "",
+  "publishedAt": "2026-09-25T21:04:52.699Z",
+  "layoutCode": "H15",
+  "text": "Au mois de mai, la Société d'Horticulture du Bassin de Châteaulin a organisé un séjour de trois jours dans le Loiret pour effectuer « la route de la rose » et visiter différents parcs et jardins sur ce thème. Le premier jour, les participants ont suivi la visite guidée du château de Chamerolles, puis du Jardin des Roses Anciennes André Eve. Après un dîner et une nuit dans un hôtel de Saint-Jean-de-Braye, ils sont repartis pour une visite guidée des jardins de Roquelin à Meung-sur-Loire en matinée, puis une visite libre du Parc Floral d’Orléans-la-Source l'après-midi. Le troisième jour, avant le déjeuner et le retour, la visite guidée de la Roseraie de Morailles à Pithiviers-le-Vieil a été suivie d'un atelier pratique de fabrication de sirop de rose.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 4,
+    "uploadedPhotoCount": 0,
+    "expectedPhotoCount": 4,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": true
+  }
+}
