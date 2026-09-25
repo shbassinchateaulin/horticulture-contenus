@@ -20,14 +20,10 @@
     {
       "src": "medias/photo-005.webp",
       "order": 5
-    },
-    {
-      "src": "medias/photo-006.webp",
-      "order": 6
     }
   ],
-  "photoCount": 6,
-  "expectedPhotoCount": 6,
-  "expectedPhotos": 6,
+  "photoCount": 5,
+  "expectedPhotoCount": 5,
+  "expectedPhotos": 5,
   "uploadPending": false
 }
