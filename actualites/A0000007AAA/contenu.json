@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000007AAA",
+  "number": 7,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
+  "status": "published",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Démonstration de tailles à Landudal",
+  "summary": "Une après-midi consacrée aux tailles hivernales des fruitiers et arbustes d’ornement à Landudal.",
+  "date": "",
+  "publishedAt": "2026-09-25T20:16:38.367Z",
+  "layoutCode": "H14",
+  "text": "Samedi après-midi à LANDUDAL, la Société d’horticulture a présenté aux amateurs différentes tailles hivernales, plus ou moins sévères, concernant en cette saison uniquement les arbres fruitiers à pépins et les arbustes d’ornement à floraison estivale ou automnale. Les deux intervenants, Serge CARON et Jean-François SÉVÈRE, sont alternativement intervenus sur des pommiers âgés (éclaircissage et rajeunissement) ou jeunes (formation, production), sur une vigne conduite en treille dans une serre, puis des rosiers arbustifs, des hortensias, un hibiscus… En fin de séance, pour alléger la silhouette d’un « chamaecyparis obtusa nana gracilis » (= cyprès du Japon), Jean-François lui a réalisé une taille en nuages.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 5,
+    "uploadedPhotoCount": 0,
+    "expectedPhotoCount": 5,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": true
+  }
+}
