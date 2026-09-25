@@ -1,8 +1,29 @@
 {
-  "status": "awaiting-import",
-  "photos": [],
-  "photoCount": 0,
+  "status": "complete",
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    },
+    {
+      "src": "medias/photo-005.webp",
+      "order": 5
+    }
+  ],
+  "photoCount": 5,
   "expectedPhotoCount": 5,
   "expectedPhotos": 5,
-  "uploadPending": true
+  "uploadPending": false
 }
