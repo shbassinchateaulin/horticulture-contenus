@@ -8,7 +8,7 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-09-25T21:00:17.947Z",
+  "updatedAt": "2026-09-25T21:02:46.871Z",
   "articles": [
     {
       "id": "A0000009AAA",
@@ -24,10 +24,13 @@
       "date": "",
       "publishedAt": "2026-09-25T21:00:17.947Z",
       "layoutCode": "H15",
-      "cover": null,
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
       "expectedPhotoCount": 5,
-      "uploadedPhotoCount": 0,
-      "mediaImportPending": true,
+      "uploadedPhotoCount": 5,
+      "mediaImportPending": false,
       "placements": {
         "news": true,
         "homeLatest": true,
