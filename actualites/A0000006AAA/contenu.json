@@ -1,7 +1,19 @@
 {
+  "schemaVersion": 2,
   "id": "A0000006AAA",
+  "number": 6,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
   "status": "published",
-  "title": "A0000006AAA",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Démonstration de tailles à St-Coulitz",
+  "summary": "Démonstration gratuite de tailles de fruitiers et d’arbustes à floraison estivale ou automnale à St-Coulitz.",
+  "date": "2026-03-21",
+  "publishedAt": "2026-09-25T18:50:00.000Z",
+  "layoutCode": "H15",
+  "text": "Samedi 21 mars à 14 h, la Société d’Horticulture du Bassin de Châteaulin organise une démonstration de tailles à St-Coulitz. Dans le parc communal, après avoir commenté et corrigé l’évolution des pommiers-tiges ébranchés l’an passé, les deux animateurs, Serge Caron et Jean-François Sévère, poursuivront les tailles d’éclaircissage et de production des fruitiers à pépins. Ensuite, dans les parterres du bourg, ils interviendront, de façon légère, sélective ou sévère, sur les arbustes qui fleurissent en été ou en automne : rosiers, hortensias, lavandes. La réunion est ouverte gratuitement à tous les amateurs.",
   "photos": [
     {
       "src": "medias/photo-001.webp",
@@ -16,12 +28,19 @@
       "order": 3
     }
   ],
-  "publishedAt": "2026-09-24T17:41:35.613Z",
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
   "metrics": {
     "photoCount": 3,
     "uploadedPhotoCount": 3,
     "expectedPhotoCount": 3,
-    "mediaImportPending": false,
-    "hasGallery": false
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": false
   }
 }
