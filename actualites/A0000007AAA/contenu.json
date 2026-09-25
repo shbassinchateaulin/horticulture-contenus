@@ -14,7 +14,28 @@
   "publishedAt": "2026-09-25T20:16:38.367Z",
   "layoutCode": "H14",
   "text": "Samedi après-midi à LANDUDAL, la Société d’horticulture a présenté aux amateurs différentes tailles hivernales, plus ou moins sévères, concernant en cette saison uniquement les arbres fruitiers à pépins et les arbustes d’ornement à floraison estivale ou automnale. Les deux intervenants, Serge CARON et Jean-François SÉVÈRE, sont alternativement intervenus sur des pommiers âgés (éclaircissage et rajeunissement) ou jeunes (formation, production), sur une vigne conduite en treille dans une serre, puis des rosiers arbustifs, des hortensias, un hibiscus… En fin de séance, pour alléger la silhouette d’un « chamaecyparis obtusa nana gracilis » (= cyprès du Japon), Jean-François lui a réalisé une taille en nuages.",
-  "photos": [],
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    },
+    {
+      "src": "medias/photo-005.webp",
+      "order": 5
+    }
+  ],
   "documents": [],
   "event": null,
   "placements": {
@@ -24,10 +45,10 @@
   },
   "metrics": {
     "photoCount": 5,
-    "uploadedPhotoCount": 0,
+    "uploadedPhotoCount": 5,
     "expectedPhotoCount": 5,
     "documentCount": 0,
     "hasGallery": false,
-    "mediaImportPending": true
+    "mediaImportPending": false
   }
 }
