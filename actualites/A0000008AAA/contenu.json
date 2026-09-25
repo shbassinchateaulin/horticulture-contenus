@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000008AAA",
+  "number": 8,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
+  "status": "published",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "À la découverte des plantes ripicoles",
+  "summary": "Une promenade botanique à la découverte des plantes des bords d’eau, entre l’Aulne maritime et un affluent du Garvan.",
+  "date": "",
+  "publishedAt": "2026-09-25T20:53:19.753Z",
+  "layoutCode": "H15",
+  "text": "Samedi 20 juin, la Société d'Horticulture du Bassin de Châteaulin a organisé une promenade découverte, sur quelques centaines de mètres, des plantes de deux milieux spécifiques aux bords d'eau. La sortie, animée par Anne DIETRICH, archéologue botaniste, a été très appréciée par les participants. Les corridors ripicoles montrent en effet des différences très intéressantes : les rives de l'Aulne maritime, légèrement saumâtres, offrent un contraste réel avec la ripisylve d'un affluent du Garvan. Ombrage, humidité du sol et de l'air, saisons, embâcles… forment un réseau de petits biotopes allant des arbres aux mousses. Ces strates particulières offrent une grande biodiversité, sur place et sur les terres alentours. Ces milieux offrent toujours plein de surprises qui ne demandent qu'à être lues par les promeneurs.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 4,
+    "uploadedPhotoCount": 0,
+    "expectedPhotoCount": 4,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": true
+  }
+}
