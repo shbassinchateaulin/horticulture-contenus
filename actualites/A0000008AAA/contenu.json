@@ -14,7 +14,24 @@
   "publishedAt": "2026-09-25T20:53:19.753Z",
   "layoutCode": "H15",
   "text": "Samedi 20 juin, la Société d'Horticulture du Bassin de Châteaulin a organisé une promenade découverte, sur quelques centaines de mètres, des plantes de deux milieux spécifiques aux bords d'eau. La sortie, animée par Anne DIETRICH, archéologue botaniste, a été très appréciée par les participants. Les corridors ripicoles montrent en effet des différences très intéressantes : les rives de l'Aulne maritime, légèrement saumâtres, offrent un contraste réel avec la ripisylve d'un affluent du Garvan. Ombrage, humidité du sol et de l'air, saisons, embâcles… forment un réseau de petits biotopes allant des arbres aux mousses. Ces strates particulières offrent une grande biodiversité, sur place et sur les terres alentours. Ces milieux offrent toujours plein de surprises qui ne demandent qu'à être lues par les promeneurs.",
-  "photos": [],
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    }
+  ],
   "documents": [],
   "event": null,
   "placements": {
@@ -24,10 +41,10 @@
   },
   "metrics": {
     "photoCount": 4,
-    "uploadedPhotoCount": 0,
+    "uploadedPhotoCount": 4,
     "expectedPhotoCount": 4,
     "documentCount": 0,
     "hasGallery": false,
-    "mediaImportPending": true
+    "mediaImportPending": false
   }
 }
