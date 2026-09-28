@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000011AAA",
+  "number": 11,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
+  "status": "published",
+  "type": "actualite",
+  "category": "Sorties et voyages",
+  "categoryKey": "sorties",
+  "title": "Découverte de l’île de Groix",
+  "summary": "Une excursion estivale sur l’île de Groix, entre patrimoine, paysages côtiers et découverte libre.",
+  "date": "",
+  "publishedAt": "2026-09-29T01:32:20+02:00",
+  "layoutCode": "H15",
+  "text": "Pour sa sortie estivale, l’association a proposé une excursion sur l’île de Groix. Favorisée par une météo clémente, celle-ci a été très appréciée par les participants. Le matin, la visite guidée de l’écomusée de Port Tudy a permis de mieux connaître le passé historique de l’île et la vie de ses habitants au XXe siècle. L’après-midi, après un pique-nique ou une restauration sur place, chacun a pu découvrir librement la côte rocheuse et ses petites plages, les villages aux maisons pittoresques et fleuries, ainsi que le bourg, dont le clocher porte une girouette en forme de thon, rappelant l’activité principale aujourd’hui disparue.",
+  "photos": [],
+  "documents": [],
+  "event": null,
+  "placements": {"news": true, "homeLatest": true, "upcomingEvents": false},
+  "metrics": {"photoCount": 0, "uploadedPhotoCount": 0, "expectedPhotoCount": 7, "documentCount": 0, "hasGallery": true, "mediaImportPending": true}
+}
