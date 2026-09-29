@@ -24,10 +24,13 @@
       "date": "",
       "publishedAt": "2026-09-29T01:32:20+02:00",
       "layoutCode": "H15",
-      "cover": null,
-      "expectedPhotoCount": 7,
-      "uploadedPhotoCount": 0,
-      "mediaImportPending": true,
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 6,
+      "uploadedPhotoCount": 6,
+      "mediaImportPending": false,
       "placements": {"news": true, "homeLatest": true, "upcomingEvents": false}
     },
     {
