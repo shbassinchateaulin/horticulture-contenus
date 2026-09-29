@@ -1,37 +1,16 @@
 {
   "status": "complete",
+  "coverImage": "medias/photo-001.webp",
   "photos": [
-    {
-      "src": "medias/photo-001.webp",
-      "order": 1
-    },
-    {
-      "src": "medias/photo-002.webp",
-      "order": 2
-    },
-    {
-      "src": "medias/photo-003.webp",
-      "order": 3
-    },
-    {
-      "src": "medias/photo-004.webp",
-      "order": 4
-    },
-    {
-      "src": "medias/photo-005.webp",
-      "order": 5
-    },
-    {
-      "src": "medias/photo-006.webp",
-      "order": 6
-    },
-    {
-      "src": "medias/photo-007.webp",
-      "order": 7
-    }
+    { "src": "medias/photo-001.webp", "order": 1 },
+    { "src": "medias/photo-002.webp", "order": 2 },
+    { "src": "medias/photo-003.webp", "order": 3 },
+    { "src": "medias/photo-004.webp", "order": 4 },
+    { "src": "medias/photo-005.webp", "order": 5 },
+    { "src": "medias/photo-006.webp", "order": 6 }
   ],
-  "photoCount": 7,
-  "expectedPhotoCount": 7,
-  "expectedPhotos": 7,
+  "photoCount": 6,
+  "expectedPhotoCount": 6,
+  "expectedPhotos": 6,
   "uploadPending": false
 }
