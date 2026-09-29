@@ -1,16 +1,15 @@
 {
   "layoutCode": "H15",
-  "photoCount": 7,
-  "expectedPhotoCount": 7,
-  "expectedPhotos": 7,
+  "photoCount": 6,
+  "expectedPhotoCount": 6,
+  "expectedPhotos": 6,
   "photos": [
     "medias/photo-001.webp",
     "medias/photo-002.webp",
     "medias/photo-003.webp",
     "medias/photo-004.webp",
     "medias/photo-005.webp",
-    "medias/photo-006.webp",
-    "medias/photo-007.webp"
+    "medias/photo-006.webp"
   ],
   "gallery": true,
   "mediaImportPending": false
