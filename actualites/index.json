@@ -1,15 +1,51 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 8,
-  "nextArticleNumber":12,
+  "contentVersion": 9,
+  "nextArticleNumber": 13,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-09-28T23:19:39.366Z",
+  "updatedAt": "2026-09-30T10:48:00.000Z",
   "articles": [
+    {
+      "id": "A0000012AAA",
+      "number": 12,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Assemblée générale 2026",
+      "summary": "L’assemblée générale de la Société d’Horticulture du Bassin de Châteaulin aura lieu le dimanche 11 octobre 2026 à Châteaulin.",
+      "date": "2026-10-11",
+      "publishedAt": "2026-09-30T12:45:00+02:00",
+      "layoutCode": "H11",
+      "coverImage": "",
+      "path": "actualites/A0000012AAA/contenu.json",
+      "event": {
+        "date": "2026-10-11",
+        "time": "10:00",
+        "location": "Salle des fêtes de la Mairie de Châteaulin",
+        "category": "Assemblée"
+      },
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": true
+      },
+      "metrics": {
+        "photoCount": 0,
+        "uploadedPhotoCount": 0,
+        "expectedPhotoCount": 2,
+        "documentCount": 0,
+        "hasGallery": false,
+        "mediaImportPending": true
+      }
+    },
     {
       "id": "A0000011AAA",
       "number": 11,
@@ -31,7 +67,11 @@
       "expectedPhotoCount": 6,
       "uploadedPhotoCount": 6,
       "mediaImportPending": false,
-      "placements": {"news": true, "homeLatest": true, "upcomingEvents": false}
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
     },
     {
       "id": "A0000010AAA",
