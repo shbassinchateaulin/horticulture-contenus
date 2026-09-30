@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000012AAA",
+  "number": 12,
+  "seasonCode": "AAA",
+  "season": "2025-2026",
+  "status": "published",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Assemblée générale 2026",
+  "summary": "L’assemblée générale de la Société d’Horticulture du Bassin de Châteaulin aura lieu le dimanche 11 octobre 2026 à Châteaulin.",
+  "date": "2026-10-11",
+  "publishedAt": "2026-09-30T12:33:00+02:00",
+  "layoutCode": "H11",
+  "coverImage": "",
+  "text": "L’Assemblée Générale de la société d’horticulture du Bassin de Châteaulin aura lieu dimanche 11 octobre 2026, à 10 h dans la salle des fêtes de la Mairie de Châteaulin.\n\nL’association propose des conférences, des démonstrations pratiques, des sorties… qui permettent de mieux connaître les plantes, les techniques horticoles, les aménagements paysagers, la protection de l’environnement et la législation.\n\nElle est ouverte à tous ceux qui s’intéressent à l’aménagement et à la conduite d’un jardin, qu’il soit ornemental, potager ou verger (création, entretien, bouturage, greffage…).\n\nDes cours d’art floral permettent également de réaliser différents bouquets, de style champêtre, classique ou contemporain.\n\nDurant la réunion, la projection d’un diaporama rappellera les activités et les sorties réalisées en 2026.\n\nL’adhésion, 20 € par famille, permet de participer à toutes les animations proposées.",
+  "photos": [],
+  "documents": [],
+  "event": {
+    "date": "2026-10-11",
+    "time": "10:00",
+    "location": "Salle des fêtes de la Mairie de Châteaulin",
+    "category": "Assemblée"
+  },
+  "placements": {"news": true, "homeLatest": true, "upcomingEvents": true},
+  "metrics": {"photoCount": 0, "uploadedPhotoCount": 0, "expectedPhotoCount": 2, "documentCount": 0, "hasGallery": false, "mediaImportPending": true}
+}
