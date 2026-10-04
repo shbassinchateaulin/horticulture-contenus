@@ -8,7 +8,7 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-04T20:21:13.811Z",
+  "updatedAt": "2026-10-04T20:33:59.899Z",
   "articles": [
     {
       "id": "A0000012AAA",
@@ -48,6 +48,33 @@
       "cover": {
         "src": "medias/photo-001.webp",
         "order": 1
+      }
+    },
+    {
+      "id": "A0000011AAA",
+      "number": 11,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Sorties et voyages",
+      "categoryKey": "sorties",
+      "title": "Découverte de l’île de Groix",
+      "summary": "Une excursion estivale sur l’île de Groix, entre patrimoine, paysages côtiers et découverte libre.",
+      "date": "",
+      "publishedAt": "2026-09-29T01:32:20+02:00",
+      "layoutCode": "H15",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 6,
+      "uploadedPhotoCount": 6,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
       }
     },
     {
