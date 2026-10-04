@@ -9,9 +9,17 @@
     {
       "src": "medias/photo-002.webp",
       "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
     }
   ],
-  "photoCount": 2,
+  "photoCount": 4,
   "expectedPhotoCount": 2,
   "expectedPhotos": 2,
   "uploadPending": false
