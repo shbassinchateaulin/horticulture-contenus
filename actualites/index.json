@@ -8,7 +8,7 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-04T18:43:11.949Z",
+  "updatedAt": "2026-10-04T20:21:13.811Z",
   "articles": [
     {
       "id": "A0000012AAA",
@@ -48,33 +48,6 @@
       "cover": {
         "src": "medias/photo-001.webp",
         "order": 1
-      }
-    },
-    {
-      "id": "A0000011AAA",
-      "number": 11,
-      "seasonCode": "AAA",
-      "season": "2025-2026",
-      "status": "published",
-      "type": "actualite",
-      "category": "Sorties et voyages",
-      "categoryKey": "sorties",
-      "title": "Découverte de l’île de Groix",
-      "summary": "Une excursion estivale sur l’île de Groix, entre patrimoine, paysages côtiers et découverte libre.",
-      "date": "",
-      "publishedAt": "2026-09-29T01:32:20+02:00",
-      "layoutCode": "H15",
-      "cover": {
-        "src": "medias/photo-001.webp",
-        "order": 1
-      },
-      "expectedPhotoCount": 6,
-      "uploadedPhotoCount": 6,
-      "mediaImportPending": false,
-      "placements": {
-        "news": true,
-        "homeLatest": true,
-        "upcomingEvents": false
       }
     },
     {
@@ -134,6 +107,141 @@
     {
       "id": "A0000008AAA",
       "number": 8,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "À la découverte des plantes ripicoles",
+      "summary": "Une promenade botanique à la découverte des plantes des bords d’eau, entre l’Aulne maritime et un affluent du Garvan.",
+      "date": "",
+      "publishedAt": "2026-09-25T20:55:53.167Z",
+      "layoutCode": "H15",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 4,
+      "uploadedPhotoCount": 4,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000007AAA",
+      "number": 7,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Démonstration de tailles à Landudal",
+      "summary": "Une après-midi consacrée aux tailles hivernales des fruitiers et arbustes d’ornement à Landudal.",
+      "date": "",
+      "publishedAt": "2026-09-25T20:21:07.499Z",
+      "layoutCode": "H14",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 5,
+      "uploadedPhotoCount": 5,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000006AAA",
+      "number": 6,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Démonstration de tailles à St-Coulitz",
+      "summary": "Démonstration gratuite de tailles de fruitiers et d’arbustes à floraison estivale ou automnale à St-Coulitz.",
+      "date": "",
+      "publishedAt": "2026-09-24T17:41:37.303Z",
+      "layoutCode": "H15",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 3,
+      "uploadedPhotoCount": 3,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000005AAA",
+      "number": 5,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Bouquet ovale et fleurs de saison",
+      "summary": "Les adhérents de l’association d’art floral se sont retrouvés pour réaliser un bouquet ovale à partir de fleurs de saison.",
+      "date": "",
+      "publishedAt": "2026-09-24T11:14:23.508Z",
+      "layoutCode": "H15",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 6,
+      "uploadedPhotoCount": 6,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000004AAA",
+      "number": 4,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "association",
+      "title": "Démonstration de taille des fruitiers à Landudal",
+      "summary": "La Société d’Horticulture du Bassin de Châteaulin a proposé à Landudal une démonstration de taille des fruitiers à pépins, de la vigne et des arbustes d’ornement.",
+      "date": "",
+      "publishedAt": "2026-09-17T12:00:00+02:00",
+      "layoutCode": "H01",
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 1,
+      "uploadedPhotoCount": 1,
+      "mediaImportPending": false,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      }
+    },
+    {
+      "id": "A0000003AAA",
+      "number": 3,
       "seasonCode": "AAA",
       "season": "2025-2026",
       "status": "published",
