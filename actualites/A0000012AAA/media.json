@@ -1,29 +1,11 @@
 {
   "status": "complete",
-  "coverImage": "",
+  "coverImage": "medias/photo-001.webp",
   "photos": [
-    {
-      "src": "medias/photo-001.webp",
-      "order": 1
-    },
-    {
-      "src": "medias/photo-002.webp",
-      "order": 2
-    },
-    {
-      "src": "medias/photo-003.webp",
-      "order": 3
-    },
-    {
-      "src": "medias/photo-004.webp",
-      "order": 4
-    },
-    {
-      "src": "medias/photo-005.webp",
-      "order": 5
-    }
+    {"src": "medias/photo-001.webp", "order": 1},
+    {"src": "medias/photo-002.webp", "order": 2}
   ],
-  "photoCount": 5,
+  "photoCount": 2,
   "expectedPhotoCount": 2,
   "expectedPhotos": 2,
   "uploadPending": false
