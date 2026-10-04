@@ -1,7 +1,7 @@
 {
   "sorties": [
     {
-      "id": "S00001AAC",
+      "id": "S00001AAA",
       "status": "published",
       "title": "Parenthèse angevine",
       "type": "Séjour",
@@ -41,7 +41,14 @@
         }
       ],
       "paymentNote": "Les trois premiers versements sont fixés à 130 €. Le solde est ajusté selon le nombre définitif de participants et le tarif adhérent ou non-adhérent.",
-      "registrationLabel": "Bulletin d’inscription"
+      "registrationLabel": "Bulletin d’inscription",
+      "cover": "https://shbassinchateaulin.github.io/site-horticulture/assets/images/chateaulin-hero.png",
+      "photos": [
+        "https://shbassinchateaulin.github.io/site-horticulture/assets/images/chateaulin-hero.png",
+        "https://images.unsplash.com/photo-1469259943454-aa100abba749?auto=format&fit=crop&w=1600&q=85"
+      ],
+      "helloAssoUrl": "https://www.helloasso.com/associations/societe-d-horticulture-du-bassin-de-chateaulin/adhesions/adhesion",
+      "bookingLabel": "Paiement / inscription"
     }
   ]
 }
