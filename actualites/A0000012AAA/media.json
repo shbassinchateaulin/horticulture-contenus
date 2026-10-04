@@ -1,9 +1,18 @@
 {
-  "status": "pending",
+  "status": "complete",
   "coverImage": "",
-  "photos": [],
-  "photoCount": 0,
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    }
+  ],
+  "photoCount": 2,
   "expectedPhotoCount": 2,
   "expectedPhotos": 2,
-  "uploadPending": true
+  "uploadPending": false
 }
