@@ -8,7 +8,7 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-04T18:39:31.640Z",
+  "updatedAt": "2026-10-04T18:43:11.949Z",
   "articles": [
     {
       "id": "A0000012AAA",
@@ -23,7 +23,7 @@
       "summary": "L’assemblée générale de la Société d’Horticulture du Bassin de Châteaulin aura lieu le dimanche 11 octobre 2026 à Châteaulin.",
       "date": "2026-10-11",
       "publishedAt": "2026-09-30T12:45:00+02:00",
-      "layoutCode": "H11",
+      "layoutCode": "H06",
       "coverImage": "medias/photo-001.webp",
       "path": "actualites/A0000012AAA/contenu.json",
       "event": {
