@@ -42,7 +42,7 @@
       ],
       "paymentNote": "Les trois premiers versements sont fixés à 130 €. Le solde est ajusté selon le nombre définitif de participants et le tarif adhérent ou non-adhérent.",
       "registrationLabel": "Bulletin d’inscription",
-      "cover": "https://shbassinchateaulin.github.io/site-horticulture/assets/images/chateaulin-hero.png",
+      "cover": "medias/photo-001.webp",
       "photos": [
         "medias/photo-001.webp",
         "medias/photo-002.webp",
@@ -52,8 +52,9 @@
         "medias/photo-006.webp"
       ],
       "helloAssoUrl": "https://www.helloasso.com/associations/societe-d-horticulture-du-bassin-de-chateaulin/adhesions/adhesion",
-      "bookingLabel": "Paiement / inscription"
+      "bookingLabel": "Paiement / inscription",
+      "detailUrl": "S00001AAA/"
     }
   ],
-  "updatedAt": "2026-10-11T11:34:09.487Z"
+  "updatedAt": "2026-10-11T11:39:31.379Z"
 }
