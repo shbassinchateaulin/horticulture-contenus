@@ -53,8 +53,15 @@
       ],
       "helloAssoUrl": "https://www.helloasso.com/associations/societe-d-horticulture-du-bassin-de-chateaulin/adhesions/adhesion",
       "bookingLabel": "Paiement / inscription",
-      "detailUrl": "S00001AAA/"
+      "tripPhotos": [
+        "medias/photo-001.webp",
+        "medias/photo-002.webp",
+        "medias/photo-003.webp",
+        "medias/photo-004.webp",
+        "medias/photo-005.webp",
+        "medias/photo-006.webp"
+      ]
     }
   ],
-  "updatedAt": "2026-10-11T11:39:31.379Z"
+  "updatedAt": "2026-10-11T11:41:29.733Z"
 }
