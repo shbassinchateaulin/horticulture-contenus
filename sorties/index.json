@@ -44,11 +44,16 @@
       "registrationLabel": "Bulletin d’inscription",
       "cover": "https://shbassinchateaulin.github.io/site-horticulture/assets/images/chateaulin-hero.png",
       "photos": [
-        "https://shbassinchateaulin.github.io/site-horticulture/assets/images/chateaulin-hero.png",
-        "https://images.unsplash.com/photo-1469259943454-aa100abba749?auto=format&fit=crop&w=1600&q=85"
+        "medias/photo-001.webp",
+        "medias/photo-002.webp",
+        "medias/photo-003.webp",
+        "medias/photo-004.webp",
+        "medias/photo-005.webp",
+        "medias/photo-006.webp"
       ],
       "helloAssoUrl": "https://www.helloasso.com/associations/societe-d-horticulture-du-bassin-de-chateaulin/adhesions/adhesion",
       "bookingLabel": "Paiement / inscription"
     }
-  ]
+  ],
+  "updatedAt": "2026-10-11T11:34:09.487Z"
 }
