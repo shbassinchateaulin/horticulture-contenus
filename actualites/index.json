@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 11,
+  "contentVersion": 12,
   "nextArticleNumber": 14,
   "seasonSystem": {
     "currentCode": "AAA",
@@ -39,12 +39,13 @@
         "mediaImportPending": false
       },
       "cover": {
-        "src": "medias/photo-001.webp",
-        "order": 1
+        "src": "medias/photo-002.webp",
+        "order": 2
       },
       "expectedPhotoCount": 6,
       "uploadedPhotoCount": 6,
-      "mediaImportPending": false
+      "mediaImportPending": false,
+      "coverImage": "medias/photo-002.webp"
     },
     {
       "id": "A0000012AAA",
