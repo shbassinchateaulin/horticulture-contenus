@@ -1,5 +1,5 @@
 {
-  "status": "pending",
+  "status": "complete",
   "coverImage": "medias/photo-001.webp",
   "photos": [
     {
@@ -27,8 +27,8 @@
       "order": 6
     }
   ],
-  "photoCount": 0,
+  "photoCount": 6,
   "expectedPhotoCount": 6,
   "expectedPhotos": 6,
-  "uploadPending": true
+  "uploadPending": false
 }
