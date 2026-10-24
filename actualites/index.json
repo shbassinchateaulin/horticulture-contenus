@@ -8,7 +8,7 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-24T22:00:00+02:00",
+  "updatedAt": "2026-10-24T20:03:02.145Z",
   "articles": [
     {
       "id": "A0000014AAB",
@@ -43,7 +43,14 @@
         "documentCount": 0,
         "hasGallery": false,
         "mediaImportPending": false
-      }
+      },
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      },
+      "expectedPhotoCount": 4,
+      "uploadedPhotoCount": 4,
+      "mediaImportPending": false
     },
     {
       "id": "A0000013AAA",
