@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000014AAB",
+  "number": 14,
+  "seasonCode": "AAB",
+  "season": "2026-2027",
+  "status": "published",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "association",
+  "title": "Bourse aux plantes",
+  "summary": "Samedi 21 novembre à 14 h, échanges gratuits de plantes ornementales, aromatiques et potagères à la salle des fêtes de la mairie de Châteaulin. Ouvert à tous.",
+  "date": "2026-11-21",
+  "publishedAt": "2026-10-24T22:00:00+02:00",
+  "layoutCode": "H28",
+  "text": "La Société d’Horticulture et d’Art Floral du Bassin de Châteaulin organise une bourse aux plantes le samedi 21 novembre à 14 heures, dans la salle des fêtes de la mairie de Châteaulin.\n\nCette animation, gratuite et ouverte à tous, permet d’échanger des plantes ornementales, aromatiques ou potagères.\n\nPour participer et repartir avec de nouvelles plantes, il suffit d’apporter des vivaces (asters, campanules, primevères, sédums…), des bulbes (narcisses, tulipes…), des rhizomes (iris…), des tubercules (dahlias, pivoines…), des graines ou des boutures enracinées.\n\nIl est recommandé d’éviter les plantes trop envahissantes.",
+  "photos": [],
+  "documents": [],
+  "event": {
+    "date": "2026-11-21",
+    "time": "14:00",
+    "location": "Salle des fêtes de la mairie de Châteaulin",
+    "category": "Bourse aux plantes"
+  },
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": true
+  },
+  "metrics": {
+    "photoCount": 0,
+    "uploadedPhotoCount": 0,
+    "expectedPhotoCount": 0,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": false
+  }
+}
