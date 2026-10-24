@@ -1,15 +1,44 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 9,
-  "nextArticleNumber": 13,
+  "contentVersion": 10,
+  "nextArticleNumber": 14,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-04T20:33:59.899Z",
+  "updatedAt": "2026-10-24T21:40:00+02:00",
   "articles": [
+    {
+      "id": "A0000013AAA",
+      "number": 13,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Patrimoine",
+      "categoryKey": "patrimoine",
+      "title": "Notre-Dame aux couleurs de l’automne",
+      "summary": "Pour les Journées du patrimoine des 19 et 20 septembre, la section Art floral a décoré l’église Notre-Dame de Châteaulin de compositions automnales admirées par plus de 520 visiteurs.",
+      "date": "2026-09-19",
+      "publishedAt": "2026-10-24T21:40:00+02:00",
+      "layoutCode": "H28",
+      "path": "actualites/A0000013AAA/contenu.json",
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      },
+      "metrics": {
+        "photoCount": 0,
+        "uploadedPhotoCount": 0,
+        "expectedPhotoCount": 0,
+        "documentCount": 0,
+        "hasGallery": false,
+        "mediaImportPending": false
+      }
+    },
     {
       "id": "A0000012AAA",
       "number": 12,
