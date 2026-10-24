@@ -1,14 +1,26 @@
 {
   "layoutCode": "H14",
-  "photoCount": 0,
+  "photoCount": 4,
   "expectedPhotoCount": 4,
   "expectedPhotos": 4,
   "photos": [
-    "medias/photo-001.webp",
-    "medias/photo-002.webp",
-    "medias/photo-003.webp",
-    "medias/photo-004.webp"
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    }
   ],
-  "gallery": true,
+  "gallery": false,
   "mediaImportPending": true
 }
