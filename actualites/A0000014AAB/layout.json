@@ -1,0 +1,14 @@
+{
+  "layoutCode": "H14",
+  "photoCount": 0,
+  "expectedPhotoCount": 4,
+  "expectedPhotos": 4,
+  "photos": [
+    "medias/photo-001.webp",
+    "medias/photo-002.webp",
+    "medias/photo-003.webp",
+    "medias/photo-004.webp"
+  ],
+  "gallery": true,
+  "mediaImportPending": true
+}
