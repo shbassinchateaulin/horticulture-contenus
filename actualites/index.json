@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 10,
+  "contentVersion": 11,
   "nextArticleNumber": 14,
   "seasonSystem": {
     "currentCode": "AAA",
@@ -8,7 +8,7 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-24T19:44:43.988Z",
+  "updatedAt": "2026-10-24T21:55:00+02:00",
   "articles": [
     {
       "id": "A0000013AAA",
@@ -23,7 +23,7 @@
       "summary": "Pour les Journées du patrimoine des 19 et 20 septembre, la section Art floral a décoré l’église Notre-Dame de Châteaulin de compositions automnales admirées par plus de 520 visiteurs.",
       "date": "2026-09-19",
       "publishedAt": "2026-10-24T21:40:00+02:00",
-      "layoutCode": "H28",
+      "layoutCode": "H15",
       "path": "actualites/A0000013AAA/contenu.json",
       "placements": {
         "news": true,
@@ -31,11 +31,11 @@
         "upcomingEvents": false
       },
       "metrics": {
-        "photoCount": 0,
-        "uploadedPhotoCount": 0,
-        "expectedPhotoCount": 0,
+        "photoCount": 6,
+        "uploadedPhotoCount": 6,
+        "expectedPhotoCount": 6,
         "documentCount": 0,
-        "hasGallery": false,
+        "hasGallery": true,
         "mediaImportPending": false
       },
       "cover": {
@@ -43,7 +43,7 @@
         "order": 1
       },
       "expectedPhotoCount": 6,
-      "uploadedPhotoCount": 12,
+      "uploadedPhotoCount": 6,
       "mediaImportPending": false
     },
     {
