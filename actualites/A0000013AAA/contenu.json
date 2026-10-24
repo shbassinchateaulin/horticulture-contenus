@@ -14,7 +14,20 @@
   "publishedAt": "2026-10-24T21:40:00+02:00",
   "layoutCode": "H28",
   "text": "À l’occasion des Journées du patrimoine, les 19 et 20 septembre, la section Art floral de la Société d’horticulture et d’art floral du bassin de Châteaulin a choisi de fleurir l’église Notre-Dame de Châteaulin aux couleurs de l’automne.\n\nImaginé par leur professeure Louise Delaine, ce projet a permis aux participantes de mettre en valeur l’édifice à travers des compositions réalisées à partir de fleurs sauvages et de fleurs du jardin.\n\nDans un premier temps, des bordures fleuries ont été disposées le long de l’allée centrale. Des rubans d’immortelles et diverses décorations ont ensuite été suspendus à d’imposantes cannes de bambou fixées aux piliers de la nef.\n\nL’une des pièces maîtresses de cette décoration était un magnifique « voile de Marie », composé d’inflorescences séchées de clématite sauvage et bordé de boules d’hortensias. Cette création conduisait le regard vers l’autel, surmonté d’une imposante gerbe de hautes inflorescences de graminées, notamment de miscanthus et d’herbe de la pampa.\n\nDe nombreux bouquets variés agrémentaient également le porche, l’entrée et les bas-côtés de l’église. Sur la banquette longeant le côté nord, les visiteurs pouvaient découvrir plusieurs réalisations d’art floral, achevées ou en préparation.\n\nPlus de 520 visiteurs ont apprécié ces décorations florales durant le week-end.",
-  "photos": [],
+  "photos": [
+    "medias/photo-001.webp",
+    "medias/photo-002.webp",
+    "medias/photo-003.webp",
+    "medias/photo-004.webp",
+    "medias/photo-005.webp",
+    "medias/photo-006.webp",
+    "medias/photo-007.webp",
+    "medias/photo-008.webp",
+    "medias/photo-009.webp",
+    "medias/photo-010.webp",
+    "medias/photo-011.webp",
+    "medias/photo-012.webp"
+  ],
   "documents": [],
   "placements": {
     "news": true,
@@ -22,11 +35,11 @@
     "upcomingEvents": false
   },
   "metrics": {
-    "photoCount": 0,
-    "uploadedPhotoCount": 0,
-    "expectedPhotoCount": 0,
+    "photoCount": 12,
+    "uploadedPhotoCount": 12,
+    "expectedPhotoCount": 6,
     "documentCount": 0,
-    "hasGallery": false,
+    "hasGallery": true,
     "mediaImportPending": false
   }
 }
