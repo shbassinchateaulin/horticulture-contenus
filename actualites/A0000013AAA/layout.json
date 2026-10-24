@@ -1,15 +1,57 @@
 {
   "layoutCode": "H15",
-  "photoCount": 0,
+  "photoCount": 12,
   "expectedPhotoCount": 6,
   "expectedPhotos": 6,
   "photos": [
-    "medias/photo-001.webp",
-    "medias/photo-002.webp",
-    "medias/photo-003.webp",
-    "medias/photo-004.webp",
-    "medias/photo-005.webp",
-    "medias/photo-006.webp"
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    },
+    {
+      "src": "medias/photo-004.webp",
+      "order": 4
+    },
+    {
+      "src": "medias/photo-005.webp",
+      "order": 5
+    },
+    {
+      "src": "medias/photo-006.webp",
+      "order": 6
+    },
+    {
+      "src": "medias/photo-007.webp",
+      "order": 7
+    },
+    {
+      "src": "medias/photo-008.webp",
+      "order": 8
+    },
+    {
+      "src": "medias/photo-009.webp",
+      "order": 9
+    },
+    {
+      "src": "medias/photo-010.webp",
+      "order": 10
+    },
+    {
+      "src": "medias/photo-011.webp",
+      "order": 11
+    },
+    {
+      "src": "medias/photo-012.webp",
+      "order": 12
+    }
   ],
   "gallery": true,
   "mediaImportPending": true
