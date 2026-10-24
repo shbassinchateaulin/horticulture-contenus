@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 13,
+  "contentVersion": 14,
   "nextArticleNumber": 15,
   "seasonSystem": {
     "currentCode": "AAA",
@@ -37,20 +37,21 @@
         "upcomingEvents": true
       },
       "metrics": {
-        "photoCount": 0,
-        "uploadedPhotoCount": 0,
-        "expectedPhotoCount": 0,
+        "photoCount": 4,
+        "uploadedPhotoCount": 4,
+        "expectedPhotoCount": 4,
         "documentCount": 0,
-        "hasGallery": false,
+        "hasGallery": true,
         "mediaImportPending": false
       },
       "cover": {
-        "src": "medias/photo-001.webp",
+        "src": "https://raw.githubusercontent.com/shbassinchateaulin/horticulture-contenus/main/actualites/A0000014AAB/medias/photo-001.webp",
         "order": 1
       },
       "expectedPhotoCount": 4,
       "uploadedPhotoCount": 4,
-      "mediaImportPending": false
+      "mediaImportPending": false,
+      "coverImage": "https://raw.githubusercontent.com/shbassinchateaulin/horticulture-contenus/main/actualites/A0000014AAB/medias/photo-001.webp"
     },
     {
       "id": "A0000013AAA",
