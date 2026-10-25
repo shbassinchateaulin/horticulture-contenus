@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 16,
+  "contentVersion": 17,
   "nextArticleNumber": 17,
   "seasonSystem": {
     "currentCode": "AAA",
@@ -8,48 +8,8 @@
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-25T14:41:40.441Z",
+  "updatedAt": "2026-10-25T14:45:01.449Z",
   "articles": [
-    {
-      "id": "A0000016AAB",
-      "number": 16,
-      "seasonCode": "AAB",
-      "season": "2026-2027",
-      "status": "published",
-      "type": "actualite",
-      "category": "Conférences",
-      "categoryKey": "conferences",
-      "title": "Plantes",
-      "summary": "Au mois de mai, la Société d'Horticulture du Bassin de Châteaulin a organisé un séjour de trois jours dans le Loiret pour effectuer « la route de la rose » et visiter différents parcs et jardins sur ce thème. Le premier jour, les participants ont suivi la visi",
-      "date": "2027-04-12",
-      "publishedAt": "2026-10-25T14:41:40.441Z",
-      "layoutCode": "H19",
-      "coverImage": "medias/photo-001.webp",
-      "path": "actualites/A0000016AAB/contenu.json",
-      "event": {
-        "date": "2027-04-12",
-        "time": "",
-        "location": "",
-        "category": ""
-      },
-      "placements": {
-        "news": true,
-        "homeLatest": true,
-        "upcomingEvents": true
-      },
-      "metrics": {
-        "photoCount": 4,
-        "uploadedPhotoCount": 4,
-        "expectedPhotoCount": 4,
-        "documentCount": 0,
-        "hasGallery": false,
-        "mediaImportPending": false
-      },
-      "cover": {
-        "src": "medias/photo-001.webp",
-        "order": 1
-      }
-    },
     {
       "id": "A0000014AAB",
       "number": 14,
