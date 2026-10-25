@@ -1,0 +1,37 @@
+name: Synchroniser les publications supprimées
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'actualites/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-publications-index
+  cancel-in-progress: false
+
+jobs:
+  clean-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Retirer les publications dont le fichier a été supprimé
+        run: node .github/scripts/sync-publications-index.cjs
+      - name: Enregistrer la correction de l'index
+        run: |
+          if ! git diff --quiet -- actualites/index.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add actualites/index.json
+            git commit -m "chore: synchroniser l'index après suppression de publications"
+            git push
+          fi
