@@ -1,15 +1,50 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 14,
-  "nextArticleNumber": 15,
+  "contentVersion": 15,
+  "nextArticleNumber": 16,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-10-24T20:03:02.145Z",
+  "updatedAt": "2026-10-25T02:21:12.247Z",
   "articles": [
+    {
+      "id": "A0000015AAA",
+      "number": 15,
+      "seasonCode": "AAA",
+      "season": "2025-2026",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "vie-de-l-association",
+      "title": "Bourse aux plantes",
+      "summary": "Samedi 21 Novembre, à 14 heures dans la salle des fêtes de la mairie de Châteaulin, la Société d’Horticulture organise des échanges gratuits de plantes ornementales, aromatiques ou potagères. Cette animation est ouverte à tous.\n\nPour y p…",
+      "date": "2026-11-21",
+      "publishedAt": "2026-10-25T02:21:12.247Z",
+      "layoutCode": "H12",
+      "coverImage": "medias/photo-001.webp",
+      "path": "actualites/A0000015AAA/contenu.json",
+      "event": null,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      },
+      "metrics": {
+        "photoCount": 5,
+        "uploadedPhotoCount": 5,
+        "expectedPhotoCount": 5,
+        "documentCount": 0,
+        "hasGallery": false,
+        "mediaImportPending": false
+      },
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      }
+    },
     {
       "id": "A0000014AAB",
       "number": 14,
