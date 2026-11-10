@@ -1,15 +1,50 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 19,
-  "nextArticleNumber": 19,
+  "contentVersion": 20,
+  "nextArticleNumber": 20,
   "seasonSystem": {
     "currentCode": "AAA",
     "currentSeason": "2025-2026",
     "starts": "2025-11-01",
     "ends": "2026-10-31"
   },
-  "updatedAt": "2026-11-10T16:42:46.179Z",
+  "updatedAt": "2026-11-10T16:43:58.980Z",
   "articles": [
+    {
+      "id": "A0000019AAB",
+      "number": 19,
+      "seasonCode": "AAB",
+      "season": "2026-2027",
+      "status": "published",
+      "type": "actualite",
+      "category": "Vie de l’association",
+      "categoryKey": "vie-de-l-association",
+      "title": "CULTIVERT DES LEGUMES SAINS ET RESISTANTS",
+      "summary": "Samedi 5 décembre, Laurent RANNOU, technicien horticole, présentera aux jardiniers amateurs les variétés potagères les mieux adaptées à la région et aux brusques variations climatiques.",
+      "date": "",
+      "publishedAt": "2026-11-10T16:43:58.980Z",
+      "layoutCode": "H19",
+      "coverImage": "medias/photo-001.webp",
+      "path": "actualites/A0000019AAB/contenu.json",
+      "event": null,
+      "placements": {
+        "news": true,
+        "homeLatest": true,
+        "upcomingEvents": false
+      },
+      "metrics": {
+        "photoCount": 3,
+        "uploadedPhotoCount": 3,
+        "expectedPhotoCount": 3,
+        "documentCount": 0,
+        "hasGallery": false,
+        "mediaImportPending": false
+      },
+      "cover": {
+        "src": "medias/photo-001.webp",
+        "order": 1
+      }
+    },
     {
       "id": "A0000018AAB",
       "number": 18,
