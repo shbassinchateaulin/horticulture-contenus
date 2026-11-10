@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "id": "A0000019AAB",
+  "number": 19,
+  "seasonCode": "AAB",
+  "season": "2026-2027",
+  "status": "published",
+  "type": "actualite",
+  "category": "Vie de l’association",
+  "categoryKey": "vie-de-l-association",
+  "title": "CULTIVERT DES LEGUMES SAINS ET RESISTANTS",
+  "summary": "Samedi 5 décembre, Laurent RANNOU, technicien horticole, présentera aux jardiniers amateurs les variétés potagères les mieux adaptées à la région et aux brusques variations climatiques.",
+  "date": "",
+  "publishedAt": "2026-11-10T16:43:58.980Z",
+  "layoutCode": "H19",
+  "coverImage": "medias/photo-001.webp",
+  "text": "Samedi 5 décembre, à 15 h au Lycée Agricole de Châteaulin, Laurent RANNOU, technicien horticole, présentera aux jardiniers amateurs les variétés potagères les mieux adaptées à la région et aux brusques variations climatiques. Au cours de son intervention, il abordera également les soins de culture ( semis, fertilisations, associations et rotations ...) et répondra aux questions des participants.\nLa réunion est ouverte gratuitement à tous.",
+  "photos": [
+    {
+      "src": "medias/photo-001.webp",
+      "order": 1
+    },
+    {
+      "src": "medias/photo-002.webp",
+      "order": 2
+    },
+    {
+      "src": "medias/photo-003.webp",
+      "order": 3
+    }
+  ],
+  "documents": [],
+  "event": null,
+  "placements": {
+    "news": true,
+    "homeLatest": true,
+    "upcomingEvents": false
+  },
+  "metrics": {
+    "photoCount": 3,
+    "uploadedPhotoCount": 3,
+    "expectedPhotoCount": 3,
+    "documentCount": 0,
+    "hasGallery": false,
+    "mediaImportPending": false
+  }
+}
